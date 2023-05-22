@@ -37,7 +37,7 @@
     </h2>
 </summary>
 
-| ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqbez39me&bg_color=45,2cb04f,dceb0c&count_bg=%2379C83D&show_icons=true&title_color=fff&text_color=fff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaqbez39me&layout=donut)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqbez39me&bg_color=45,2cb04f,dceb0c&count_bg=%2379C83D&show_icons=true&title_color=fff&text_color=fff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaqbez39me&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
 <!-- _generated with https://github.com/Platane/snk -->
