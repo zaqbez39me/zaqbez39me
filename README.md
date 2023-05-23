@@ -12,6 +12,10 @@
 </summary>
 
 * ⚙️ Backend engineer who loves building projects on FAST Api and Django.
+* 👨‍🎓 Graduate of Moscow School of Programmers (2018-2021)
+* 🧑‍🎓 Student at Innopolis University on Software Development track
+* ⚡ Fast-learning person with high high interest to new technologies
+* 🏀 Enthusiastic about amateur basketball
     
 </details>
 
@@ -21,10 +25,19 @@
     
 <summary>
     <h2>
-        🔧 Tech Stack
+        🛠️ Tech Stack
     </h2>
 </summary>
 
+### Languages
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
+![Haskell](https://img.shields.io/badge/haskell-black?style=for-the-badge&logo=haskell)
     
 </details>
 
@@ -37,10 +50,11 @@
     </h2>
 </summary>
 
-| ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqbez39me&bg_color=45,2cb04f,dceb0c&count_bg=%2379C83D&show_icons=true&title_color=fff&text_color=fff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaqbez39me&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqbez39me&bg_color=45,2cb04f,dceb0c&count_bg=%2379C83D&show_icons=true&title_color=fff&text_color=fff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaqbez39me&langs_count=5&layout=donut)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
-<!-- _generated with https://github.com/Platane/snk -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/korolovk2003?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
+
     
 </details>
 
