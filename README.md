@@ -50,7 +50,7 @@
     </h2>
 </summary>
 
-| ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqbez39me&hide=javascript&bg_color=45,2cb04f,dceb0c&count_bg=%2379C83D&show_icons=true&title_color=fff&text_color=fff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaqbez39me&langs_count=7&layout=donut)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqbez39me&hide=HTML&bg_color=45,2cb04f,dceb0c&count_bg=%2379C83D&show_icons=true&title_color=fff&text_color=fff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaqbez39me&langs_count=7&layout=donut)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/korolovk2003?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
