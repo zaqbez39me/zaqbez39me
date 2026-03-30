@@ -1,7 +1,3 @@
-<div id="header" align="center">
-    <img src="https://i.imgur.com/5VtePOk.gif" alt="Kirill Korolev"/>
-</div>
-
 <!-- ABOUT ME -->
 <details open id="about-me">
     
